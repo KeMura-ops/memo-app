@@ -1,24 +1,16 @@
-# README
+# Ruby on RailsとVue.jsで実装したメモアプリケーション
+<img width="1354" alt="memo-app" src="https://user-images.githubusercontent.com/76515881/113543439-5e976780-9621-11eb-8f7e-cf119939364f.png">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Vue.jsの基礎を学習するために実装したメモアプリです。
+フレームワークはRuby on Railsを用いています。
+axiosを使用し非同期通信でメモの投稿が出来る仕様です。
+編集、削除機能はありません。
 
 * Ruby version
+  :Ruby 2.6.5
 
-* System dependencies
-
-* Configuration
+* Ruby on Rails version
+  :Rails 6.0.3.6
 
 * Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  :PostgreSQL
